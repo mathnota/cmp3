@@ -1,0 +1,19 @@
+.margin-top {
+    margin-top: 20px;
+}
+
+.header-container {
+    background: url("img/background.jpg");
+}
+
+html {
+    background: url("img/background2.jpg");
+}
+
+.pagetitle {
+    color: #DE1B1B;
+    font-size: 3rem;
+    width: 100%;
+    float: right;
+    font-family: Existence-Light;
+}
